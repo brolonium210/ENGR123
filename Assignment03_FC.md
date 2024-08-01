@@ -2,6 +2,9 @@
 
 ![NetHack Logo](https://www.nethack.org/common/nethacklogo-348x128.png)
 
+**test entry**
+maybe i should keep my remnotes in this format >> maybes
+
 **NetHack** is a single-player roguelike video game originally released in 1987. The game is considered one of the most complex and difficult roguelikes. This README will guide you through the basics, installation, gameplay, and resources.
 
 ## Table of Contents
