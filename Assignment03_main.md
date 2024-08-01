@@ -1,7 +1,7 @@
 ![Question 1](images/A3Q1.png)
 
 ### a)
-\[ R = \{(a,a),(b,b),(a,b),(b,a)\} \]
+$$R = \{(a,a),(b,b),(a,b),(b,a)\}$$
 
 - **Reflexive:** 
   - The relation is reflexive as (a,a) and (b,b) are present. This means that an element is related to itself.
