@@ -28,3 +28,19 @@ $$ R = \{(a,b),(b,a)\} $$
   -![My Answer](images/IMG_5026.jpeg) 
 
 ![Question 4](images/A3Q4.png)
+
+### a)
+- being able to to speak another language does not prevent someone from playing a musical instrument so these are not partitions
+- However being unable to do either is a valid partition as it will not share any of the other two conditions 
+### b)
+- all 3 are clear conditions that will produce 3 clear partitions of the larger set
+
+### c)
+- none of these are valid partitions because of the double degree options
+- they could all share elements and are not partitions of the set
+
+![Question 5](images/A3Q5.png)
+### a)
+- 
+### b)
+
