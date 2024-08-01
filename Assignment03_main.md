@@ -16,3 +16,13 @@ $$ R = \{(a,b),(b,a)\} $$
 - It couldnt be transitive as if (a is different to b) and (b is different to c) there is a possibility of a and c being the same
 - ![example](/images/IMG_5025.jpeg) 
     
+
+![Question 2](images/A3Q2.png)
+
+- there exists some number such that 3a = x+y
+- x and y will be reflexive as they are some number
+- x and y arent necessarily symmetrical they dont need to equal each other
+
+![Question 3](images/A3Q3.png)
+
+  -![My Answer](images/IMG_5026.jpeg) 
