@@ -34,4 +34,6 @@
 - **Not Transitive:** 
   - The relation is not transitive. If (a,b) and (b,c) are in R, it does not necessarily mean (a,c) is in R.
   - If (a is different from b) and (b is different from c), there is a possibility of a and c being the same, which breaks transitivity.
+  - ![example](/images/IMG_5025.jpeg)
+  - 
     
