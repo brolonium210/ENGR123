@@ -19,7 +19,7 @@ $$R = \{(a,a),(b,b),(a,b),(b,a)\}$$
   - _Example_: If (a,b) and (b,c), then (a,c) holds true.
 
 ### b)
-\[ R = \{(a,b),(b,a)\} \]
+$$ R = \{(a,b),(b,a)\} $$
 
 - **Not Reflexive:** 
   - The relation is not reflexive because (a,a) and (b,b) are not present. Reflexivity requires that every element be related to itself.
