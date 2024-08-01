@@ -26,3 +26,5 @@ $$ R = \{(a,b),(b,a)\} $$
 ![Question 3](images/A3Q3.png)
 
   -![My Answer](images/IMG_5026.jpeg) 
+
+![Question 4](images/A3Q4.png)
